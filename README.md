@@ -1,4 +1,4 @@
-# Pong AI 
+# Pong AI  
 
 Functional game of Pong w/ GUI, then implemented Q-learning to train agent to play the game. Written for Assignment 4 of CS 440 (Artificial Intelligence). 
 
@@ -56,4 +56,5 @@ http://slazebni.cs.illinois.edu/fall17/assignment4.html
 
 ## Author
 Elnathan Au (eau3)
+
 
